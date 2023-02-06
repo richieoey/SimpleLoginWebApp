@@ -1,0 +1,54 @@
+﻿<Properties StartupConfiguration="{0BFA0850-6772-40F1-BF14-86F3839E3289}|Default">
+  <MonoDevelop.Ide.ItemProperties.LoginMenu PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="LoginMenu/ClientApp/src/components/Login.js">
+    <Files>
+      <File FileName="LoginMenu/Controllers/WeatherForecastController.cs" />
+      <File FileName="LoginMenu/appsettings.Development.json" />
+      <File FileName="LoginMenu/Program.cs" Line="27" Column="1" />
+      <File FileName="LoginMenu/ClientApp/src/setupProxy.js" />
+      <File FileName="LoginMenu/Models/User.cs" />
+      <File FileName="LoginMenu/Controllers/UserController.cs" />
+      <File FileName="LoginMenu/ClientApp/src/serviceWorkerRegistration.js" />
+      <File FileName="LoginMenu/ClientApp/aspnetcore-react.js" />
+      <File FileName="LoginMenu/ClientApp/aspnetcore-https.js" />
+      <File FileName="LoginMenu/ClientApp/package.json" />
+      <File FileName="LoginMenu/ClientApp/src/service-worker.js" />
+      <File FileName="LoginMenu/ClientApp/src/reportWebVitals.js" />
+      <File FileName="LoginMenu/ClientApp/src/App.js" Line="1" Column="1" />
+      <File FileName="LoginMenu/ClientApp/src/AppRoutes.js" />
+      <File FileName="LoginMenu/ClientApp/src/index.js" />
+      <File FileName="LoginMenu/ClientApp/src/components/Layout.js" Line="1" Column="1" />
+      <File FileName="LoginMenu/ClientApp/src/components/NavMenu.css" Line="1" Column="1" />
+      <File FileName="LoginMenu/ClientApp/src/components/NavMenu.js" Line="45" Column="1" />
+      <File FileName="LoginMenu/ClientApp/src/components/Home.js" Line="1" Column="1" />
+      <File FileName="LoginMenu/ClientApp/README.md" />
+      <File FileName="LoginMenu/ClientApp/src/custom.css" />
+      <File FileName="LoginMenu/ClientApp/src/components/Info.js" Line="1" Column="1" />
+      <File FileName="LoginMenu/ClientApp/src/components/Login.js" Line="9" Column="23" />
+      <File FileName="LoginMenu/ClientApp/package-lock.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LoginMenu">
+            <Node name="LoginMenu">
+              <Node name="ClientApp">
+                <Node name="src">
+                  <Node name="components">
+                    <Node name="Login.js" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
